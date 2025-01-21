@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2010\Projects\Railwaysyestem\Railwaysyestem\bin\Debug\Railwaysyestem.exe
+c:\users\hp\documents\visual studio 2010\Projects\Railwaysyestem\Railwaysyestem\bin\Debug\Railwaysyestem.pdb
+c:\users\hp\documents\visual studio 2010\Projects\Railwaysyestem\Railwaysyestem\obj\x86\Debug\Railwaysyestem.Form1.resources
+c:\users\hp\documents\visual studio 2010\Projects\Railwaysyestem\Railwaysyestem\obj\x86\Debug\Railwaysyestem.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\Railwaysyestem\Railwaysyestem\obj\x86\Debug\Railwaysyestem.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\Railwaysyestem\Railwaysyestem\obj\x86\Debug\Railwaysyestem.exe
+c:\users\hp\documents\visual studio 2010\Projects\Railwaysyestem\Railwaysyestem\obj\x86\Debug\Railwaysyestem.pdb
+C:\Users\Hp\Documents\Visual Studio 2010\Projects\Railwaysyestem\Railwaysyestem\obj\x86\Debug\Railwaysyestem.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\Railwaysyestem\Railwaysyestem\obj\x86\Debug\Railwaysyestem.exe
+C:\Users\Hp\Desktop\Railwaysyestem\Railwaysyestem\obj\x86\Debug\Railwaysyestem.pdb
